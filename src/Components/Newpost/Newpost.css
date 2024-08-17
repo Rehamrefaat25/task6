@@ -1,0 +1,18 @@
+.new{background-color: white;
+height:150px;
+width:500px}
+.new input{
+    margin:20px;
+height:100px;
+width: 300px;
+border-color:rgb(223, 221, 221) ;
+text-align: center;
+
+}
+.new button{
+    background-color: blue;
+    color:white;
+    border: none;
+    padding:15px;
+    border-radius: 10px;
+}
